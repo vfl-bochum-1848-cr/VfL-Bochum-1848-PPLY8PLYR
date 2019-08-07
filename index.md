@@ -8,7 +8,7 @@ Es besteht kein Spendenzwang. Ältester ist eine Auszeichnung, keine Berufung.
 * Man verliert die Auszeichnung wenn man eine Woche nicht aktiv ist oder zuwenig spendet
 * Ein Ältester darf niemanden rauswerfen, ansonsten wird er selber rausgeworfen
 
-Die Statistiken wer aktiv ist und wer nicht, kann man sich auf [https://royaleapi.com/clan/PPL8PLYR]() ansehen.
+Die Statistiken wer aktiv ist und wieviel gespendet wurde, kann man sich auf [https://royaleapi.com/clan/PPL8PLYR](https://royaleapi.com/clan/PPL8PLYR) ansehen.
 Was "eine Zeit im Clan" und "ausreichend spenden" bedeutet, entscheiden die Vizes und der Anführer.
 
 
