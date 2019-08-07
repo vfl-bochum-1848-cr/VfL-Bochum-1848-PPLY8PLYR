@@ -17,3 +17,5 @@ Was "eine gewisse Zeit im Clan" und "ausreichend spenden" bedeutet, entscheiden 
 * Mitglieder die über einen längeren Zeitraum nicht aktiv sind, werden rausgeworfen
 * Mitglieder die um Ältestenstatus betteln, werden die nächsten 14 Tage sicherlich **nicht** Ältester
 * Mitglieder die durch ihr Verhalten lästig fallen, können nach Ermahnung rausgeworfen werden
+
+Was "über einen längeren Zeitraum" bedeutet, entscheiden die Vizes und der Anführer. Es sind aber auf jeden Fall mehr als 14 Tage.
