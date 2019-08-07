@@ -2,6 +2,11 @@
 
 Es besteht kein Spendenzwang. Ältester ist eine Auszeichnung, keine Berufung.
 
+### Vizes
+
+* Nur der Anführer macht Älteste zum Vize. Falsche Vizes werden wieder degradiert.
+* Vizes werden nur bei sehr lange Inaktivität (Monate) degradiert
+
 ### Ältester
 
 * Ältester ist eine Auszeichnung für aktive Spieler, die ausreichend spenden und schon eine gewisse Zeit im Clan sind
