@@ -9,11 +9,11 @@ Es besteht kein Spendenzwang. Ältester ist eine Auszeichnung, keine Berufung.
 * Ein Ältester darf niemanden rauswerfen, ansonsten wird er selber rausgeworfen
 
 Die Statistiken wer aktiv ist und wer nicht, kann man sich auf [https://royaleapi.com/clan/PPL8PLYR]() ansehen.
-Was "eine Zeit im Clan" und "ausreichend spenden" bedeutet, entscheiden die Vizes und der Anf&uml;hrer.
+Was "eine Zeit im Clan" und "ausreichend spenden" bedeutet, entscheiden die Vizes und der Anführer.
 
 
 ### Mitglieder
 
 * Mitglieder die über einen längeren Zeitraum nicht aktiv sind, werden rausgeworfen
 * Mitglieder die um Ältestenstatus betteln, werden die nächsten 14 Tage sicherlich **nicht** Ältester
-* Mitglieder die durch ihr Verhalten lästig fallen, können nach Ermahnung rausgeworfen werden, 
+* Mitglieder die durch ihr Verhalten lästig fallen, können nach Ermahnung rausgeworfen werden
