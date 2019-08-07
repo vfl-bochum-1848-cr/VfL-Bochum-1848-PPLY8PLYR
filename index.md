@@ -1,4 +1,4 @@
-## VfL Bochum 1848 - Clash Royale Clan
+## Clan Satzung
 
 Es besteht kein Spendenzwang. Ältester ist eine Auszeichnung, keine Berufung.
 
