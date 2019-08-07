@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## VfL Bochum 1848 - Clash Royale Clan
 
-You can use the [editor on GitHub](https://github.com/vfl-bochum-1848-cr/homepage/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Es besteht kein Spendenzwang. Ältester ist eine Auszeichnung, keine Berufung.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Ältester
 
-### Markdown
+* Ältester ist eine Auszeichnung für aktive Spieler, die ausreichend spenden und schon eine gewisse Zeit im Clan sind
+* Man verliert die Auszeichnung wenn man eine Woche nicht aktiv ist oder zuwenig spendet
+* Ein Ältester darf niemanden rauswerfen, ansonsten wird er selber rausgeworfen
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Die Statistiken wer aktiv ist und wer nicht, kann man sich auf [https://royaleapi.com/clan/PPL8PLYR]() ansehen.
+Was "eine Zeit im Clan" und "ausreichend spenden" bedeutet, entscheiden die Vizes und der Anf&uml;hrer.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Mitglieder
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vfl-bochum-1848-cr/homepage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* Mitglieder die über einen längeren Zeitraum nicht aktiv sind, werden rausgeworfen
+* Mitglieder die um Ältestenstatus betteln, werden die nächsten 14 Tage sicherlich **nicht** Ältester
+* Mitglieder die durch ihr Verhalten lästig fallen, können nach Ermahnung rausgeworfen werden, 
